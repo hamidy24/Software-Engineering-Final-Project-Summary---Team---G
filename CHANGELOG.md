@@ -7,3 +7,4 @@
 - Added code execution engine.
 - Added algorithm selection dropdown.
 - Added synchronization between code and visualization.
+- Added user authentication system.
