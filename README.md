@@ -14,3 +14,6 @@ See SYSTEM_DESIGN.md
 
 ## UI Design
 See UI_DESIGN.md
+
+## Testing
+See TESTING.md
