@@ -9,3 +9,4 @@
 - Added synchronization between code and visualization.
 - Added user authentication system.
 - Added role-based access control.
+- Added course and content management.
