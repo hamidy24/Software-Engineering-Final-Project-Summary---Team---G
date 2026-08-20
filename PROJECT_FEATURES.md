@@ -6,3 +6,4 @@
 - **Step-by-Step Execution:** Execute algorithms one operation at a time, highlighting the active code line.
 - **Animation Controls:** Play, pause, resume, stop, and step-forward with Slow, Normal, and Fast speeds.
 - **Built-in Code Editor:** Clear coding area, algorithm selection, input support, and error messages.
+- **Code Execution:** Isolated, safe execution of user code displaying program output and errors.
