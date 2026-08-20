@@ -8,3 +8,6 @@ Iterative and incremental development using six sprints, ten working days per sp
 
 ## Timeline
 See GANTT_CHART.md
+
+## System Design
+See SYSTEM_DESIGN.md
