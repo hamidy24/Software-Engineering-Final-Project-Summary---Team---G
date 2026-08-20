@@ -8,3 +8,4 @@
 - **Built-in Code Editor:** Clear coding area, algorithm selection, input support, and error messages.
 - **Code Execution:** Isolated, safe execution of user code displaying program output and errors.
 - **Algorithm Selection:** Dropdown menu for Bubble Sort, Linear Search, Traversal algorithms, etc.
+- **Synchronization:** Syncs code execution with visual output, highlighting compared/swapped objects.
