@@ -11,3 +11,8 @@
 - Secure, isolated code execution engine.
 - Dropdown menu for Algorithm Selection.
 - Synchronized code execution highlighting visual steps.
+### User Management & Content
+- Registration, login, and authentication.
+- Role-Based Access Control (Student, Teacher, Contributor, Admin).
+- Course creation and content management workflows.
+- Progress tracking, search functionality, and feedback options.

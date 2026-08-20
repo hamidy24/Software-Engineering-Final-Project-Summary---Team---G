@@ -7,3 +7,7 @@
 - Secure code execution engine.
 - Algorithm selection menu and loaded descriptions.
 - Synchronization between code execution and visual output.
+- User registration and authentication system.
+- Role-based access control.
+- Course creation and content management workflows.
+- Progress tracking and search functionality.
