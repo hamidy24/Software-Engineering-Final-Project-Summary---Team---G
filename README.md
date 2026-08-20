@@ -5,3 +5,6 @@ Traditional lectures, textbooks, PDFs, and slides often make abstract topics dif
 
 ## Agile Scrum Process
 Iterative and incremental development using six sprints, ten working days per sprint, totaling approximately sixty working days for a five-member team.
+
+## Timeline
+See GANTT_CHART.md
