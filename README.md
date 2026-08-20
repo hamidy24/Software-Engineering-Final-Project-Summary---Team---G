@@ -11,3 +11,6 @@ See GANTT_CHART.md
 
 ## System Design
 See SYSTEM_DESIGN.md
+
+## UI Design
+See UI_DESIGN.md

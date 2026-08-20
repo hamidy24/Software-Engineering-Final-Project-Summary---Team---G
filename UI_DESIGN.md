@@ -1,2 +1,2 @@
-# UI and Figma Design
-- **Pages:** Home, login, student/teacher dashboards, admin panel, code editor, course pages.
+# UI Design
+Wireframes for home page, dashboards, admin panel, code editor, and visualization pages.
