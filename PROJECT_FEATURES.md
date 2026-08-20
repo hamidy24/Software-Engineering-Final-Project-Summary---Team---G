@@ -12,3 +12,4 @@
 - **User Authentication:** Registration, login, logout, and unique email validation.
 - **Role-Based Access Control:** Roles for Student, Teacher, Contributor, and Admin.
 - **Course Management:** Teachers can create courses; Contributors submit algorithms; Admins manage approval workflows.
+- **Progress Tracking & Search:** Track completed lessons and search for algorithms/courses.
