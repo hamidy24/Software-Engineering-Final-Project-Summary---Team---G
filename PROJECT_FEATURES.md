@@ -7,3 +7,4 @@
 - **Animation Controls:** Play, pause, resume, stop, and step-forward with Slow, Normal, and Fast speeds.
 - **Built-in Code Editor:** Clear coding area, algorithm selection, input support, and error messages.
 - **Code Execution:** Isolated, safe execution of user code displaying program output and errors.
+- **Algorithm Selection:** Dropdown menu for Bubble Sort, Linear Search, Traversal algorithms, etc.

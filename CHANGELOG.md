@@ -5,3 +5,4 @@
 - Added animation controls.
 - Added built-in code editor.
 - Added code execution engine.
+- Added algorithm selection dropdown.
