@@ -17,3 +17,6 @@ See UI_DESIGN.md
 
 ## Testing
 See TESTING.md
+
+## Final Conclusion
+Project successfully documented. All required functionality mapped.
