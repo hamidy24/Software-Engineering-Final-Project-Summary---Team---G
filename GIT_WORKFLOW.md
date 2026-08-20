@@ -1,4 +1,2 @@
 # Git Workflow & Agile Scrum Process
-- **Process Model:** Agile Scrum
-- **Timeline:** Six sprints, ten working days per sprint
-- **Team Size:** Five-member team
+- Product backlog, sprint planning, sprint backlog, sprint execution, working increment, review, and feedback.
