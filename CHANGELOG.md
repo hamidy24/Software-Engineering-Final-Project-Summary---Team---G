@@ -8,3 +8,4 @@
 - Added algorithm selection dropdown.
 - Added synchronization between code and visualization.
 - Added user authentication system.
+- Added role-based access control.

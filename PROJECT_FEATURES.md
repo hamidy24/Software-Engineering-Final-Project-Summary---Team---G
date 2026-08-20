@@ -10,3 +10,4 @@
 - **Algorithm Selection:** Dropdown menu for Bubble Sort, Linear Search, Traversal algorithms, etc.
 - **Synchronization:** Syncs code execution with visual output, highlighting compared/swapped objects.
 - **User Authentication:** Registration, login, logout, and unique email validation.
+- **Role-Based Access Control:** Roles for Student, Teacher, Contributor, and Admin.
