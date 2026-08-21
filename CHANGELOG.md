@@ -1,13 +1,12 @@
 # Changelog
-- Added algorithm visualization.
-- Added data structure visualization.
-- Added step-by-step execution.
-- Added animation controls.
-- Added built-in code editor.
-- Added code execution engine.
-- Added algorithm selection dropdown.
-- Added synchronization between code and visualization.
-- Added user authentication system.
-- Added role-based access control.
-- Added course and content management.
-- Added progress tracking and search.
+
+## [1.1.0] - 2026-08-21
+### Added
+- Comprehensive SRS, UI Design, and System Architecture documentation.
+- Integrated `student.cpp` execution sandbox runner.
+- Manual character classification enforcement to bypass standard library dependencies.
+- Advanced graphics logic placeholders for visualization mapping.
+
+## [1.0.0] - Initial Release
+### Added
+- Basic repository structure and Agile GANTT chart mapping.
